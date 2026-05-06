@@ -1,6 +1,6 @@
 # CE222 Final Project
 
-Finite element implementation for the CE222 Option 1 plate-with-cutout problem. The code uses a heterosis Mindlin plate element with Q8 interpolation for transverse displacement and Q9 interpolation for rotations.
+Develop a finite element program for the CE222 Option 1 plate-with-cutout problem. The code uses a heterosis Mindlin plate element with Q8 interpolation for transverse displacement and Q9 interpolation for rotations.
 
 ## Final Result
 
