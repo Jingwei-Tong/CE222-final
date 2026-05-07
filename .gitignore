@@ -21,3 +21,6 @@ secret*
 ~$*
 *.tmp
 *.log
+
+# Large interactive Plotly outputs are generated locally.
+outputs/**/*.html

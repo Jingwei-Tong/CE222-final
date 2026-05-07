@@ -149,9 +149,7 @@ This three-dimensional view provides a qualitative picture of the plate deformat
 
 ![Figure 4. Final three-dimensional deflection surface.](outputs/final_case/deflection_surface_3d.png)
 
-An interactive version is also available in:
-
-- `outputs/final_case/deflection_surface_interactive.html`
+An interactive HTML version can be regenerated locally by running `examples/final_plate_with_cutout.py`, but it is not tracked in the GitHub repository to keep the uploaded project focused on source code and report assets.
 
 ## Appendix F. Input Files for Final Analysis
 The principal final-analysis inputs are:
@@ -189,7 +187,7 @@ These auxiliary tests supported incremental development before the final plate-w
 Additional backup material available in the repository includes:
 
 - intermediate mesh and boundary-visualization figures under `outputs/`
-- an interactive HTML deflection surface for manual inspection
+- a locally generated interactive HTML deflection surface for manual inspection
 - the project blueprint in `Option1_Project_Blueprint.md`
 - the complete unit-test suite in `tests/`
 
@@ -367,9 +365,7 @@ This three-dimensional view provides a qualitative picture of the plate deformat
 
 ![Figure 4. Final three-dimensional deflection surface.](outputs/final_case/deflection_surface_3d.png)
 
-An interactive version is also available in:
-
-- `outputs/final_case/deflection_surface_interactive.html`
+An interactive HTML version can be regenerated locally by running `examples/final_plate_with_cutout.py`, but it is not tracked in the GitHub repository to keep the uploaded project focused on source code and report assets.
 
 ## Appendix F. Input Files for Final Analysis
 The principal final-analysis inputs are:
@@ -407,7 +403,7 @@ These auxiliary tests supported incremental development before the final plate-w
 Additional backup material available in the repository includes:
 
 - intermediate mesh and boundary-visualization figures under `outputs/`
-- an interactive HTML deflection surface for manual inspection
+- a locally generated interactive HTML deflection surface for manual inspection
 - the project blueprint in `Option1_Project_Blueprint.md`
 - the complete unit-test suite in `tests/`
 
